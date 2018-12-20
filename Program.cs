@@ -10,7 +10,9 @@ namespace ConsoleApp14
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");            				  Console.WriteLine("Goodbye, world!");
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("Goodbye, world!");
+            Console.WriteLine("I wanna die. Please kill me.");
             Console.ReadLine();
         }
     }
